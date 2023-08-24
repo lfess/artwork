@@ -1,0 +1,22 @@
+title: LF Energy Standards and Specifications Artwork 
+description: >-
+  Logos and artwork for LF Energy Standards and Specifications and it's hosted working groups
+
+# Settings
+primary_logo: other/lf-energy-standards-and-specifications/horizontal/color/lf-energy-standards-and-specifications-horizontal-color.svg
+header_logo: other/lf-energy-standards-and-specifications/horizontal/white/lf-energy-standards-and-specifications-horizontal-white.svg
+theme_color_1: add8e6
+theme_color_2: add8e6 
+favicon: assets/img/favicon.png
+github_repo: https://github.com/lf-energy-standards-and-specifications/artwork
+trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Questions? Please email <a href="mailto:info@lfess.energy">info@lfess.energy</a>. 
+logo_categories: 
+  - Working Groups
+  - Other Logos
+ga_tracking_id: 361402579
+
+readme_index:
+  with_frontmatter: true
+plugins:
+  - jekyll-remote-theme
+remote_theme: jmertic/artwork-template
