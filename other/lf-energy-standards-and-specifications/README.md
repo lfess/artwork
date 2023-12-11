@@ -7,3 +7,6 @@ layout: logos
 order: 1 
 ---
 
+## Presentation Template
+
+[Presentation Template](lfess-template.pptx)
